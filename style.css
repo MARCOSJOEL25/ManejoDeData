@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 70px;
+}
+
+.input input{
+    border: none;
+    border-bottom: 1px solid grey;
+    padding: 10px 20px;
+}
+
+.data{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.data ul{
+    list-style-type: none;
+}
